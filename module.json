@@ -1,0 +1,31 @@
+{
+  "id": "test-foundry",
+  "title": "Test Foundry",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "description": "test for darkest",
+  "authors": [
+    {
+      "name": "Darkest Maps",
+      "url": "https://www.patreon.com/posts/flying-dragon-107094333",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/posts/flying-dragon-107094333",
+  "packs": [
+    {
+      "name": "darkest-maps-test-foundry",
+      "label": "Darkest Maps-Test Foundry",
+      "path": "packs/darkest-maps-test-foundry",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
