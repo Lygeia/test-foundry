@@ -1,1 +1,12 @@
-packs/** binary
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Graphics
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.tga      binary
+*.gif      binary
+*.tif      binary
+*.tiff     binary
+*.ico      binary
